@@ -1,5 +1,5 @@
-# Process_Document_Instructor_Draft
-Eng Benjamin, Process Document Instructor Draft
+# Process_Document_Peer_Review_Draft
+Eng Benjamin, Process Document Peer Review Draft
 
 # Electronics Engineering Role Process Document
 
@@ -11,7 +11,6 @@ Eng Benjamin, Process Document Instructor Draft
   - [Building Your Electronics Engineering Skillset](#Building-Your-Electronics-Engineering-Skillset)
     - [Core Software Tools in Electronics Engineering](#Core-Software-Tools)
     - [FPGA Design Experience](#FPGA-Digital-Design)
-    - [Uploading Projects to GitHub](#Upload-Projects-To-GitHub)
   - [Follow Industry Trends, Standards, Techniques, and Skills](#Follow-Industry-Trends-Standards-Techniques-and-Skills)
     - [Subscribe to Club Newsletters](#Subscribe-to-Club-Newsletters)
     - [Search Job Boards for Electronics Engineering Roles](#Search-Job-Boards-for-Electronics-Engineering-Roles)
@@ -64,11 +63,6 @@ Your portfolio should document proficiency in some or all of these skills.[^1]
 Practicing on FPGA platforms is essential for students pursuing digital design. In mastering HDL for FPGAs, students learn to manage constraints such as gate timing, resource control, and hardware.
 
 Obtain an educational FPGA board such as a Terasic FPGA Development Board or a Digilent Arty A7 FPGA Development Board, then practice implementing them in personal projects.
-
-### Upload Projects To GitHub
-Github can serve as an extension of an engineering resume beyond what could be described on paper. You can capture images of prototypes, attached documentation of electrical testing, and demonstrate your ability in the engineering process from an paper-napkin concept to a working project. 
-
-Post projects to GitHub and provide links to them on resumes, LinkedIn, or Handshake.
 
 ---
 ## Follow Industry Trends, Standards, Techniques, and Skills
