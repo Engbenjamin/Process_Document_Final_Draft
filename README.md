@@ -59,6 +59,7 @@ Complete the "MATLAB Onramp" and "Simulink Onramp" courses via the MathWorks web
 
 Your portfolio should document proficiency in some or all of these skills.[^1]
 
+
 ### FPGA Digital Design
 Practicing on FPGA platforms is essential for students pursuing digital design. In mastering HDL for FPGAs, students learn to manage constraints such as gate timing, resource control, and hardware.
 
