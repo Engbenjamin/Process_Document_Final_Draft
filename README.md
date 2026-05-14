@@ -38,6 +38,8 @@ Take the EE elective course BEE 484 Sensors and Sensor Systems
 
 ---
 ## Building Your Electronics Engineering Skillset
+Your portfolio should document proficiency in some or all of these skills. [^1]
+
 ### Core Software Tools
 Three core software used in Electronics Engineering are Python, C++, and MATLAB. They serve different but important purposes.
 
@@ -56,9 +58,6 @@ Take the CSS 142/143 C++ track of classes instead of CSS 132/133 when fulfilling
 This tool is used for engineering simulation and graphical modeling of complex systems. 
 
 Complete the "MATLAB Onramp" and "Simulink Onramp" courses via the MathWorks website to earn certifications you can display on your LinkedIn profile, and utilize the Power Systems Toolbox to simulate circuit behavior before moving to physical prototyping.
-
-Your portfolio should document proficiency in some or all of these skills.[^1]
-
 
 ### FPGA Digital Design
 Practicing on FPGA platforms is essential for students pursuing digital design. In mastering HDL for FPGAs, students learn to manage constraints such as gate timing, resource control, and hardware.
