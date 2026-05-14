@@ -5,16 +5,15 @@ Eng Benjamin, Process Document Peer Review Draft
 
 ## Table of Contents
   - [Purpose](#Purpose)
-  - [Choosing the Proper Elective Classes for Electronics Engineering](#Choosing-the-Proper-Elective-Classes-for-Electronics-Engineering)
-    - [Embedded Systems Classes](#Embedded-Systems)
-    - [Electrical Sensors Classes](#Electrical-Sensors)
-  - [Building Your Electronics Engineering Skillset](#Building-Your-Electronics-Engineering-Skillset)
+  - [Strategic Coursework & Technical Foundations](#Strategic-Coursework-&-Technical-Foundations)
+    - [Choosing The Proper Elective Classes](#Choosing-The-Proper-Elective-Classes)
+      - [Embedded Systems Classes](#Embedded-Systems)
+      - [Electrical Sensors Classes](#Electrical-Sensors)
     - [Core Software Tools in Electronics Engineering](#Core-Software-Tools)
     - [FPGA Design Experience](#FPGA-Digital-Design)
-  - [Follow Industry Trends, Standards, Techniques, and Skills](#Follow-Industry-Trends-Standards-Techniques-and-Skills)
+  - [Professional Engagement and Industry Literacy](#Professional-Engagement-and-Industry-Literacy)
     - [Subscribe to Club Newsletters](#Subscribe-to-Club-Newsletters)
     - [Search Job Boards for Electronics Engineering Roles](#Search-Job-Boards-for-Electronics-Engineering-Roles)
-  - [Networking to Aid in Future Job Search](#Networking-to-Aid-in-Future-Job-Search)
     - [Connect With Classmates and Professors Online](#Connect-With-Classmates-and-Professors-Online)
     - [Conduct Informational Interviews](#Conduct-Informational-Interviews)
   - [The Career Readiness Framework](#The-Career-Readiness-Framework)
@@ -25,20 +24,20 @@ Eng Benjamin, Process Document Peer Review Draft
 If you are interested becoming an Electronics Engineer, you may have questions about how best to prepare for landing your first job after graduation. Core topics covered in this process document include choosing the elective classes tailored to Electronics Engineering, building your professional portfolio for future employers, keeping up with industry topics and skills in the field, and networking advice.
 
 ---
-## Choosing the Proper Elective Classes for Electronics Engineering
-### Embedded Systems
+## Strategic Coursework & Technical Foundations
+Your portfolio should document proficiency in some or all of these skills. [^1]
+
+### Choosing The Proper Elective Classes
+
+#### Embedded Systems
 Embedded systems are ubiquitous with various domains from home electronics, aerospace, medical equipment and more. These courses will prepare you with the knowledge of software, firmware, and hardware elements and how these work together within the larger electrical system. 
 
 Take EE elective courses in embedded systems such as EE 333 Analog Embedded Systems or CSE 474 Introduction to Embedded Systems.
 
-### Electrical Sensors
+#### Electrical Sensors
 A core part of any electronic system are the inputs. Courses covering electrical sensors will prepare students for implementing these in electronic devices. 
 
 Take the EE elective course BEE 484 Sensors and Sensor Systems
-
----
-## Building Your Electronics Engineering Skillset
-Your portfolio should document proficiency in some or all of these skills. [^1]
 
 ### Core Software Tools
 Three core software used in Electronics Engineering are Python, C++, and MATLAB. They serve different but important purposes.
@@ -53,9 +52,8 @@ This is a critical part of embedded electronics and is the industry standard for
 
 Take the CSS 142/143 C++ track of classes instead of CSS 132/133 when fulfilling your degree's programming requirements. 
 
-#### MATLAB is used in engineering simulation. Simulink provides graphical modeling of complex electronic systems while specialized toolboxes within MATLAB can be used for power electronics, control systems, and antenna design.
-
-This tool is used for engineering simulation and graphical modeling of complex systems. 
+#### MATLAB 
+This is used in engineering simulation. Simulink provides graphical modeling of complex electronic systems while specialized toolboxes within MATLAB can be used for power electronics, control systems, and antenna design.
 
 Complete the "MATLAB Onramp" and "Simulink Onramp" courses via the MathWorks website to earn certifications you can display on your LinkedIn profile, and utilize the Power Systems Toolbox to simulate circuit behavior before moving to physical prototyping.
 
@@ -65,7 +63,7 @@ Practicing on FPGA platforms is essential for students pursuing digital design. 
 Obtain an educational FPGA board such as a Terasic FPGA Development Board or a Digilent Arty A7 FPGA Development Board, then practice implementing them in personal projects.
 
 ---
-## Follow Industry Trends, Standards, Techniques, and Skills
+## Professional Engagement and Industry Literacy
 ### Subscribe to Club Newsletters
 Clubs like the IEEE have online newsletters that cover topics such as the latest university research, product spotlights, jobs, and the engineering workplace. 
 
@@ -75,13 +73,6 @@ Subscribe to the IEEE newsletter on the website and have them delivered to your 
 Job boards are a invaluable look at the current job market for Electronics Engineers. Job descriptions provide details on high-demand skills, knowledge, software, and tools. One can tailor their educational experiences towards their future role and industry. 
 
 Subscribe to job sites under terms like 'Electronics Engineer' or 'Electrical Engineer' or 'Hardware Engineer'.
-
----
-## Networking to Aid in Future Job Search
-### Connect With Classmates and Professors Online
-Connecting with classmates and professors directly connects you with like-minded individuals in your field of study. These connections could provide leads or references for your first role after graduation. 
-
-Introduce yourself to students and professors in your classes, connect with them on LinkedIn and Handshake. 
 
 ### Conduct Informational Interviews
 Beyond providing insider industry knowledge of the roles and responsibilities of being an Electronics Engineer, informational interviews may be another avenue upon which you can connect with a future company. Like recruiters, they may know of job postings before they become public and may move your resume to their hiring manager. 
