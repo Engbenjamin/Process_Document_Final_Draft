@@ -80,8 +80,8 @@ Beyond providing insider industry knowledge of the roles and responsibilities of
 Conduct informational interviews with Electronics Engineers to network with industry insiders.
 
 ---
-## The Career Readiness Framework
-<img width="1920" height="1080" alt="Student to Engineer Pipeline" src="https://github.com/user-attachments/assets/2f3159ff-dbb1-4893-bf53-c056f36be929" />
+### Figure 1: The Electronics Engineering Career Readiness Skill Stack Pyramid
+![The Electronics Engineering Career Readiness Skill Stack Pyramid](Progressive_Skill_Stack_Pyramid.png)
 
 ---
 ## References
