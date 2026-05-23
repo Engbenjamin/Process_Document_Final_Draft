@@ -16,7 +16,7 @@ Eng Benjamin, Process Document Peer Review Draft
     - [Industry Trends](#Industy-Trends)
       - [Subscribe to Club Newsletters](#Subscribe-to-Club-Newsletters)
       - [Search Job Boards for Electronics Engineering Roles](#Search-Job-Boards-for-Electronics-Engineering-Roles)
-    - [Networking](#Networking)
+    - [Building Your Professional Network](#Building-Your-Professional-Network)
       - [Connect With Classmates and Professors Online](#Connect-With-Classmates-and-Professors-Online)
       - [Conduct Informational Interviews](#Conduct-Informational-Interviews)
   - [The Career Readiness Framework](#The-Career-Readiness-Framework)
@@ -27,10 +27,14 @@ Eng Benjamin, Process Document Peer Review Draft
 If you are interested becoming an Electronics Engineer, you may have questions about how best to prepare for landing your first job after graduation. Core topics covered in this process document include choosing the elective classes tailored to Electronics Engineering, building your professional portfolio for future employers, keeping up with industry topics and skills in the field, and networking advice.
 
 ---
-## Strategic Coursework & Technical Foundations
-Your portfolio should document proficiency in some or all of these skills. [^1]
+### Figure 1: The Electronics Engineering Career Readiness Skill Stack Pyramid
+<img width="402" height="813" alt="Progressive_Skill_Stack_Pyramid" src="https://github.com/user-attachments/assets/041cef3a-8d53-42ee-8de5-2b81cc1b218a" />
 
-### Choosing Relevant Classes
+---
+## Strategic Coursework & Technical Foundations
+To be a sucessful Electronics Engineer, you will need proficiency in the required tools and software used by industry professionals. [^1]
+
+### Choose Relevant Classes
 
 #### Embedded Systems
 Embedded systems are ubiquitous with various domains from home electronics, aerospace, medical equipment and more. These courses will prepare you with the knowledge of software, firmware, and hardware elements and how these work together within the larger electrical system. 
@@ -58,7 +62,7 @@ Navigate to geeksforgeeks.org/python/python-automation/ to access complimentary 
 #### MATLAB 
 This is used in engineering simulation. Simulink provides graphical modeling of complex electronic systems while specialized toolboxes within MATLAB can be used for power electronics, control systems, and antenna design.
 
-Complete the "MATLAB Onramp" and "Simulink Onramp" courses via the MathWorks website to earn certifications you can display on your LinkedIn profile.
+Complete the "MATLAB Onramp" and "Simulink Onramp" courses via the MathWorks website to earn certifications you can then display on your resume, a project portfolio webpage, or a LinkedIn profile.
 
 ### FPGA Digital Design
 Practicing on FPGA platforms is essential for students pursuing digital design. In mastering HDL for FPGAs, students learn to manage constraints such as gate timing, resource control, and hardware.
@@ -72,14 +76,14 @@ Obtain an educational FPGA board such as a Terasic FPGA Development Board or a D
 #### Subscribe to Club Newsletters
 Clubs like the IEEE have online newsletters that cover topics such as the latest university research, product spotlights, jobs, and the engineering workplace. 
 
-Subscribe to the IEEE newsletter on the website and have them delivered to your email.
+Subscribe to the IEEE newsletter at spectrum.ieee.org/Newsletters/ and have them delivered to your email.
 
 #### Search Job Boards For Electronics Engineering Roles
 Job boards are a invaluable look at the current job market for Electronics Engineers. Job descriptions provide details on high-demand skills, knowledge, software, and tools. One can tailor their educational experiences towards their future role and industry. 
 
-Subscribe to job sites under terms like 'Electronics Engineer' or 'Electrical Engineer' or 'Hardware Engineer'.
+Subscribe to job sites like Indeed or ZipRecruiter. Set up weekly or monthly automatic email alerts for roles under terms like 'Electronics Engineer' or 'Electrical Engineer' or 'Hardware Engineer'.
 
-### Networking
+### Building Your Professional Network
 ### Connect With Classmates and Professors Online
 Connecting with classmates and professors directly connects you with like-minded individuals in your field of study. These connections could provide leads or references for your first role after graduation.
 
@@ -88,13 +92,7 @@ Introduce yourself to students and professors in your classes, connect with them
 ### Conduct Informational Interviews
 Beyond providing insider industry knowledge of the roles and responsibilities of being an Electronics Engineer, informational interviews may become a future point of contact at a company. They may know of job postings before they become public and may move your resume to their hiring manager. 
 
-Conduct informational interviews with Electronics Engineers to network with industry insiders.
-
----
-### Figure 1: The Electronics Engineering Career Readiness Skill Stack Pyramid
-<img width="402" height="813" alt="Progressive_Skill_Stack_Pyramid" src="https://github.com/user-attachments/assets/041cef3a-8d53-42ee-8de5-2b81cc1b218a" />
-
-
+Conduct informational interviews with Electronics Engineers to network with industry insiders. Go to the University of Washington-Bothell LinkedIn page and click on the ‘Alumni’ tab then search by major, e.g. ‘Electrical Engineering’. Browse profiles that interest you and hit ‘connect’. Pair connection requests with a note on why you want to connect to increase the likelihood it is accepted.
 
 ---
 ## References
