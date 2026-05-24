@@ -35,17 +35,17 @@ A successful graduate will need strong technical proficiency in the industry too
 #### Embedded Systems
 Embedded systems are ubiquitous with various domains from home electronics, aerospace, medical equipment and more. These courses will prepare you with the knowledge of how software, firmware, and hardware work together within the larger electrical system. 
 
-Take EE elective courses such as EE 333 Analog Embedded Systems or CSE 474 Introduction to Embedded Systems.
+Enroll in elective courses such as EE 333 Analog Embedded Systems or CSE 474 Introduction to Embedded Systems.
 
 #### Electrical Sensors
 A core part of any electronic system are the inputs. Courses covering electrical sensors will prepare students for implementing these in electronic devices. 
 
-Take the EE elective course BEE 484 Sensors and Sensor Systems.
+Enroll in the EE elective course BEE 484 Sensors and Sensor Systems.
 
 #### C++ Coding
 This is a critical part of embedded electronics and is used in almost all microcontrollers. It is the industry standard for electronics firmware across industries.
 
-Take the CSS 142/143 C++ track of classes instead of the CSS 132/133 course track when fulfilling your degree's programming requirements. 
+Enroll in the CSS 142/143 C++ track of classes instead of CSS 132/133 when fulfilling your degree's programming requirements. 
 
 ### Core Software Tools
 Core software used in Electronics Engineering are Python and MATLAB. They serve different but important purposes.
