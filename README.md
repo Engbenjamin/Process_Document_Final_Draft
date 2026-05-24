@@ -7,7 +7,7 @@ By Benjamin Eng
     - [Choosing Relevant Classes](#choosing-relevant-classes)
       - [Embedded Systems Classes](#embedded-systems)
       - [Electrical Sensors Classes](#electrical-sensors)
-      - [C++ Coding](#c++-coding)
+      - [C++ Coding](#c-coding)
     - [Core Software Tools in Electronics Engineering](#core-software-tools)
     - [FPGA Design Experience](#fpga-digital-design)
   - [Professional Engagement and Industry Trends](#professional-engagement-and-industry-trends)
@@ -52,17 +52,17 @@ Take the CSS 142/143 C++ track of classes instead of the CSS 132/133 course trac
 Core software used in Electronics Engineering are Python and MATLAB. They serve different but important purposes.
 
 #### Python
-This is a generic tool for modern electronics labs, widely used to automate testing and analyze data. 
+This is a generic tool for modern electronics labs, widely used to automate testing and analyze data [^3]. 
 
 Navigate to geeksforgeeks.org/python/python-automation/ to access complimentary python automation courses and structured projects.
 
 #### MATLAB 
-This is used in engineering simulation. Simulink provides graphical modeling of complex electronic systems while specialized toolboxes within MATLAB can be used for power electronics, control systems, and antenna design.
+This is used in engineering simulation. Simulink provides graphical modeling of complex electronic systems while specialized toolboxes within MATLAB can be used for power electronics, control systems, and antenna design [^4].
 
 Complete the "MATLAB Onramp" and "Simulink Onramp" courses via the MathWorks website to earn certifications you can then display on your resume or LinkedIn.
 
 ### FPGA Digital Design
-Practicing on FPGA platforms is essential for students pursuing digital design [^3]. In mastering HDL for FPGAs, students learn to manage constraints such as gate timing, resource control, and hardware.
+Practicing on FPGA platforms is essential for students pursuing digital design [^5]. In mastering HDL for FPGAs, students learn to manage constraints such as gate timing, resource control, and hardware.
 
 Obtain an educational FPGA board such as the Terasic FPGA Development Board. Navigate to FPGA4student.com to access comprehensive guides and structured projects.
 
@@ -72,7 +72,7 @@ Inaddition to building your core technical proficiencies, a successful graduate 
 
 ### Industry Literacy
 #### Subscribe to Club Newsletters
-Clubs like the IEEE have online newsletters that cover topics such as the latest university research, product spotlights, jobs, and the engineering workplace. 
+Clubs like the IEEE have online newsletters that cover topics such as the latest university research, product spotlights, jobs, and the engineering workplace [^6]. 
 
 Subscribe to the IEEE newsletter at Spectrum.ieee.org/Newsletters and have them delivered to your email.
 
@@ -83,7 +83,7 @@ Subscribe to job sites like Indeed or ZipRecruiter. Set up automatic emails for 
 
 ### Building Your Professional Network
 ### Connect With Classmates and Professors Online
-Connecting with classmates and professors networks you with like-minded individuals in your field. These connections could become crucial contacts for your first role after graduation [^3].
+Connecting with classmates and professors networks you with like-minded individuals in your field. These connections could become crucial contacts for your first role after graduation [^5].
 
 Introduce yourself to students and professors in your classes, connect with them on LinkedIn and Handshake.
 
@@ -97,4 +97,7 @@ Conduct informational interviews with Electronics Engineers to network with indu
 [^1]: "O Net Online," 2026. [Online]. Available: https://www.onetonline.org/link/summary/17-2072.00. [Accessed 15th April 2026].
 [^2]:"Indeed: What is Electronics Engineering (Duties, Skills, Salary)," Indeed, 15 December 2025. [Online]. Available: https://www.indeed.com/career-
 advice/finding-a-job/what-is-electronics-engineering. [Accessed 20 May 2026].
-[^3]: Lampano, Bryant. Personal interview. 26 April 2026
+[^3]: Michael, "Automating Test-Equipment with Python," Core Electronics, 24 September 2021. [Online]. Available: https://core-electronics.com.au/guides/automating-test-equipment-with-python/. [Accessed 19 May 2026].
+[^4]: "Matlab and Simulink for Electronics Systems," Matlab, [Online]. Available: https://www.mathworks.com/solutions/electronics.html. [Accessed 19 May 2026].
+[^5]: Lampano, Bryant. Personal interview. 26 April 2026
+[^6]: "IEEE Spectrum Newsletter," IEEE, [Online]. Available: Spectrum.ieee.org/Newsletters. [Accessed 17 May 2026].
