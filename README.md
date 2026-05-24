@@ -34,9 +34,9 @@ A successful graduate will need strong technical proficiency in the industry too
 ### Choosing Relevant Classes
 
 #### Embedded Systems
-Embedded systems are ubiquitous with various domains from home electronics, aerospace, medical equipment and more. This course will prepare you with the knowledge of how software, firmware, and hardware work together within the larger electrical system. 
+Embedded systems are ubiquitous with various domains from home electronics, aerospace, medical equipment and more. These courses will prepare you with the knowledge of how software, firmware, and hardware work together within the larger electrical system. 
 
-Take EE elective courses in embedded systems such as EE 333 Analog Embedded Systems or CSE 474 Introduction to Embedded Systems.
+Take EE elective courses such as EE 333 Analog Embedded Systems or CSE 474 Introduction to Embedded Systems.
 
 #### Electrical Sensors
 A core part of any electronic system are the inputs. Courses covering electrical sensors will prepare students for implementing these in electronic devices. 
@@ -59,12 +59,12 @@ Navigate to geeksforgeeks.org/python/python-automation/ to access complimentary 
 #### MATLAB 
 This is used in engineering simulation. Simulink provides graphical modeling of complex electronic systems while specialized toolboxes within MATLAB can be used for power electronics, control systems, and antenna design.
 
-Complete the "MATLAB Onramp" and "Simulink Onramp" courses via the MathWorks website to earn certifications you can then display on your resume or LinkedIn profile.
+Complete the "MATLAB Onramp" and "Simulink Onramp" courses via the MathWorks website to earn certifications you can then display on your resume or LinkedIn.
 
 ### FPGA Digital Design
 Practicing on FPGA platforms is essential for students pursuing digital design [^2]. In mastering HDL for FPGAs, students learn to manage constraints such as gate timing, resource control, and hardware.
 
-Obtain an educational FPGA board such as a Terasic FPGA Development Board. Navigate to FPGA4student.com to access comprehensive introductory guides and structured projects.
+Obtain an educational FPGA board such as the Terasic FPGA Development Board. Navigate to FPGA4student.com to access comprehensive guides and structured projects.
 
 ---
 ## Professional Engagement and Industry Trends
@@ -77,13 +77,13 @@ Clubs like the IEEE have online newsletters that cover topics such as the latest
 Subscribe to the IEEE newsletter at Spectrum.ieee.org/Newsletters and have them delivered to your email.
 
 #### Search Job Boards For Electronics Engineering Roles
-Job boards are a invaluable look at the current job market for Electronics Engineers. Job descriptions provide details on high-demand skills, knowledge, software, and tools. One can tailor their educational experiences towards their future role and industry. 
+Job boards are a invaluable look at the current market for Electronics Engineers. Job descriptions provide details on high-demand skills, knowledge, software, and tools. One can tailor their educational experiences towards their future role and industry. 
 
-Subscribe to job sites like Indeed or ZipRecruiter. Set up weekly or monthly automatic email alerts for roles under terms like 'Electronics Engineer' or 'Electrical Engineer' or 'Hardware Engineer'.
+Subscribe to job sites like Indeed or ZipRecruiter. Set up automatic emails for roles under 'Electronics Engineer' or 'Electrical Engineer' or 'Hardware Engineer'.
 
 ### Building Your Professional Network
 ### Connect With Classmates and Professors Online
-Connecting with classmates and professors directly connects you with like-minded individuals in your field of study. These connections could become crucial contacts for your first role after graduation [^2].
+Connecting with classmates and professors networks you with like-minded individuals in your field. These connections could become crucial contacts for your first role after graduation [^2].
 
 Introduce yourself to students and professors in your classes, connect with them on LinkedIn and Handshake.
 
