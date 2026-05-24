@@ -24,8 +24,10 @@ By Benjamin Eng
 If you are interested in becoming an Electronics Engineer, you may have questions about building your skill stack necessary to land your first role after graduation. This process document guides you through building each layer of your stack and includes core topics such as choosing the right elective classes tailored to Electronics Engineering, building technicial proficiency in professional tools, keeping up with industry trends, and constructing your professional network.
 
 
-#### Figure 1: The Electronics Engineering Career Readiness Skill Stack Pyramid
-<img width="402" height="813" alt="Progressive_Skill_Stack_Pyramid" src="https://github.com/user-attachments/assets/041cef3a-8d53-42ee-8de5-2b81cc1b218a" />
+#### Figure 1: The Electronics Engineering Career Readiness Pyramid
+<img width="480" height="785" alt="Electronics Engineering Skill Stack Progression" src="https://github.com/user-attachments/assets/5873c832-5e94-40e5-87cd-e4ff0143d905" />
+
+
 
 ---
 ## Strategic Coursework And Technical Foundations
@@ -72,9 +74,9 @@ Inaddition to building your core technical proficiencies, a successful graduate 
 
 ### Industry Literacy
 #### Subscribe to Club Newsletters
-Clubs like the IEEE have online newsletters that cover topics such as the latest university research, product spotlights, jobs, and the engineering workplace. 
+Clubs like the IEEE have online newsletters that cover topics such as the latest university research, product spotlights, jobs, and the engineering workplace [^6]. 
 
-Subscribe to the IEEE newsletter at Spectrum.ieee.org/Newsletters and have them delivered to your email.
+Subscribe to the IEEE newsletter and have them delivered to your email.
 
 #### Search Job Boards For Electronics Engineering Roles
 Job boards are a invaluable look at the current market for Electronics Engineers. Job descriptions provide details on high-demand skills, knowledge, software, and tools. One can tailor their educational experiences towards their future role and industry. 
@@ -100,3 +102,4 @@ advice/finding-a-job/what-is-electronics-engineering. [Accessed 20 May 2026].
 [^3]: Michael, "Automating Test-Equipment with Python," Core Electronics, 24 September 2021. [Online]. Available: https://core-electronics.com.au/guides/automating-test-equipment-with-python/. [Accessed 19 May 2026].
 [^4]: "Matlab and Simulink for Electronics Systems," Matlab, [Online]. Available: https://www.mathworks.com/solutions/electronics.html. [Accessed 19 May 2026].
 [^5]: Lampano, Bryant. Personal interview. 26 April 2026
+[^6]: "IEEE Spectrum Newsletter," IEEE, [Online]. Available: Spectrum.ieee.org/Newsletters. [Accessed 17 May 2026].
