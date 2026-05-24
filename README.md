@@ -29,7 +29,7 @@ If you are interested in becoming an Electronics Engineer, you may have question
 
 ---
 ## Strategic Coursework And Technical Foundations
-A successful graduate will need strong technical proficiency in the industry tools used by Electronics Engineers [^1]. These strategic combination of elective coursework, applied software mastery, and targeted technical practice are essential in developing your competitive technological foundation.
+A successful graduate will need strong technical proficiency in the industry tools used by Electronics Engineers [^1] [^2]. These strategic combination of elective coursework, applied software mastery, and targeted technical practice are essential in developing your competitive technological foundation.
 
 ### Choosing Relevant Classes
 
@@ -62,7 +62,7 @@ This is used in engineering simulation. Simulink provides graphical modeling of 
 Complete the "MATLAB Onramp" and "Simulink Onramp" courses via the MathWorks website to earn certifications you can then display on your resume or LinkedIn.
 
 ### FPGA Digital Design
-Practicing on FPGA platforms is essential for students pursuing digital design [^2]. In mastering HDL for FPGAs, students learn to manage constraints such as gate timing, resource control, and hardware.
+Practicing on FPGA platforms is essential for students pursuing digital design [^3]. In mastering HDL for FPGAs, students learn to manage constraints such as gate timing, resource control, and hardware.
 
 Obtain an educational FPGA board such as the Terasic FPGA Development Board. Navigate to FPGA4student.com to access comprehensive guides and structured projects.
 
@@ -83,7 +83,7 @@ Subscribe to job sites like Indeed or ZipRecruiter. Set up automatic emails for 
 
 ### Building Your Professional Network
 ### Connect With Classmates and Professors Online
-Connecting with classmates and professors networks you with like-minded individuals in your field. These connections could become crucial contacts for your first role after graduation [^2].
+Connecting with classmates and professors networks you with like-minded individuals in your field. These connections could become crucial contacts for your first role after graduation [^3].
 
 Introduce yourself to students and professors in your classes, connect with them on LinkedIn and Handshake.
 
@@ -95,4 +95,6 @@ Conduct informational interviews with Electronics Engineers to network with indu
 ---
 ## References
 [^1]: "O Net Online," 2026. [Online]. Available: https://www.onetonline.org/link/summary/17-2072.00. [Accessed 15th April 2026].
-[^2]: Lampano, Bryant. Personal interview. 26 April 2026
+[^2]:"Indeed: What is Electronics Engineering (Duties, Skills, Salary)," Indeed, 15 December 2025. [Online]. Available: https://www.indeed.com/career-
+advice/finding-a-job/what-is-electronics-engineering. [Accessed 20 May 2026].
+[^3]: Lampano, Bryant. Personal interview. 26 April 2026
