@@ -44,7 +44,7 @@ A core part of any electronic system are the inputs. Courses covering electrical
 Take the EE elective course BEE 484 Sensors and Sensor Systems.
 
 #### C++ Coding
-This is a critical part of embedded electronics and are used in almost all microcontrollers. It is the industry standard for electronics firmware across industries.
+This is a critical part of embedded electronics and is used in almost all microcontrollers. It is the industry standard for electronics firmware across industries.
 
 Take the CSS 142/143 C++ track of classes instead of the CSS 132/133 course track when fulfilling your degree's programming requirements. 
 
