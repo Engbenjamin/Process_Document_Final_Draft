@@ -1,7 +1,5 @@
-# Process_Document_Peer_Review_Draft
-Eng Benjamin, Process Document Peer Review Draft
-
-# Electronics Engineering Role Process Document
+# Best Practices To Securing a Electronics Engineering Job
+By Benjamin Eng
 
 ## Table of Contents
   - [Purpose](#Purpose)
@@ -19,20 +17,18 @@ Eng Benjamin, Process Document Peer Review Draft
     - [Building Your Professional Network](#Building-Your-Professional-Network)
       - [Connect With Classmates and Professors Online](#Connect-With-Classmates-and-Professors-Online)
       - [Conduct Informational Interviews](#Conduct-Informational-Interviews)
-  - [The Career Readiness Framework](#The-Career-Readiness-Framework)
   - [References](#References)
 ---
 
 ## Purpose
-If you are interested becoming an Electronics Engineer, you may have questions about how best to prepare for landing your first job after graduation. Core topics covered in this process document include choosing the elective classes tailored to Electronics Engineering, building your professional portfolio for future employers, keeping up with industry topics and skills in the field, and networking advice.
+If you are interested in becoming an Electronics Engineer, you may have questions about building your career readiness skill stack necessary to land your first role after graduation. This process document guides you through building each layer of your skillset and includes core topics such as choosing the right elective classes tailored to Electronics Engineering, building technicial proficiency in professional tools, keeping up with industry trends, and constructing professional connections through networking.
 
----
 ### Figure 1: The Electronics Engineering Career Readiness Skill Stack Pyramid
 <img width="402" height="813" alt="Progressive_Skill_Stack_Pyramid" src="https://github.com/user-attachments/assets/041cef3a-8d53-42ee-8de5-2b81cc1b218a" />
 
 ---
 ## Strategic Coursework & Technical Foundations
-To be a sucessful Electronics Engineer, you will need proficiency in the required tools and software used by industry professionals. [^1]
+A successful graduate will need strong technical proficiency in the industry-standard tools commonly used by Electronics Engineers. [^1] These strategic combination of elective coursework, applied software mastery, and target practical skillsets are essential in developing that competitive technical foundation.
 
 ### Choose Relevant Classes
 
@@ -71,12 +67,13 @@ Obtain an educational FPGA board such as a Terasic FPGA Development Board or a D
 
 ---
 ## Professional Engagement and Industry Literacy
+Navigating the transition from graduation to industry relies heavily on mapping current commercial market demands and engaging with the regional engineering community. Tracking active hiring trends and technological shifts across local aerospace or electronics firms provides the targeted insights needed to drive productive networking conversations and secure informational interviews with industry insiders.
 
 ### Industry Trends
 #### Subscribe to Club Newsletters
 Clubs like the IEEE have online newsletters that cover topics such as the latest university research, product spotlights, jobs, and the engineering workplace. 
 
-Subscribe to the IEEE newsletter at spectrum.ieee.org/Newsletters/ and have them delivered to your email.
+Subscribe to the IEEE newsletter at spectrum.ieee.org/Newsletters and have them delivered to your email.
 
 #### Search Job Boards For Electronics Engineering Roles
 Job boards are a invaluable look at the current job market for Electronics Engineers. Job descriptions provide details on high-demand skills, knowledge, software, and tools. One can tailor their educational experiences towards their future role and industry. 
@@ -90,10 +87,11 @@ Connecting with classmates and professors directly connects you with like-minded
 Introduce yourself to students and professors in your classes, connect with them on LinkedIn and Handshake.
 
 ### Conduct Informational Interviews
-Beyond providing insider industry knowledge of the roles and responsibilities of being an Electronics Engineer, informational interviews may become a future point of contact at a company. They may know of job postings before they become public and may move your resume to their hiring manager. 
+Beyond providing insider industry knowledge of the roles and responsibilities of being an Electronics Engineer, informational interviews may become a future point of contact at a company. Currently, around 80% of jobs are filled through referrals [^2].
 
 Conduct informational interviews with Electronics Engineers to network with industry insiders. Go to the University of Washington-Bothell LinkedIn page and click on the ‘Alumni’ tab then search by major, e.g. ‘Electrical Engineering’. Browse profiles that interest you and hit ‘connect’. Pair connection requests with a note on why you want to connect to increase the likelihood it is accepted.
 
 ---
 ## References
 [^1]: "O Net Online," 2026. [Online]. Available: https://www.onetonline.org/link/summary/17-2072.00. [Accessed 15th April 2026].
+[^2]: U. C. S. Center, "Networking," 2026. [Online]. Available: https://www.uwb.edu/career-services/resources/networking. [Accessed 23rd April 2026].
