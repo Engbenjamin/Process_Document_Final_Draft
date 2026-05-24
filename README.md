@@ -3,11 +3,11 @@ By Benjamin Eng
 
 ## Table of Contents
   - [Purpose](#Purpose)
-  - [Strategic Coursework & Technical Foundations](#Strategic-Coursework-&-Technical-Foundations)
+  - [Strategic Coursework And Technical Foundations](#Strategic-Coursework-And-Technical-Foundations)
     - [Choosing Relevant Classes](#Choosing-Relevant-Classes)
       - [Embedded Systems Classes](#Embedded-Systems)
       - [Electrical Sensors Classes](#Electrical-Sensors)
-      - [C++ Coding Classes](#C++)
+      - [C++ Coding Classes](#C++-Coding)
     - [Core Software Tools in Electronics Engineering](#Core-Software-Tools)
     - [FPGA Design Experience](#FPGA-Digital-Design)
   - [Professional Engagement and Industry Literacy](#Professional-Engagement-and-Industry-Literacy)
@@ -27,7 +27,7 @@ If you are interested in becoming an Electronics Engineer, you may have question
 <img width="402" height="813" alt="Progressive_Skill_Stack_Pyramid" src="https://github.com/user-attachments/assets/041cef3a-8d53-42ee-8de5-2b81cc1b218a" />
 
 ---
-## Strategic Coursework & Technical Foundations
+## Strategic Coursework And Technical Foundations
 A successful graduate will need strong technical proficiency in the industry tools used by Electronics Engineers. [^1] These strategic combination of elective coursework, applied software mastery, and targeted practical skillsets are essential in developing your competitive technical foundation.
 
 ### Choosing Relevant Classes
