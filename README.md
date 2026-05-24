@@ -21,13 +21,10 @@ By Benjamin Eng
 ---
 
 ## Purpose
-If you are interested in becoming an Electronics Engineer, you may have questions about building your skill stack necessary to land your first role after graduation. This process document guides you through building each layer of your stack and includes core topics such as choosing the right elective classes tailored to Electronics Engineering, building technicial proficiency in professional tools, keeping up with industry trends, and constructing your professional network.
-
+If you are interested in becoming an Electronics Engineer, you may have questions about building your skill stack necessary to land your first role after graduation. This process document guides you through building each layer of your stack and includes core topics such as choosing the right elective classes tailored to Electronics Engineering, building technical proficiency in professional tools, keeping up with industry trends, and constructing your professional network.
 
 #### Figure 1: The Electronics Engineering Career Readiness Pyramid
 <img width="480" height="785" alt="Electronics Engineering Skill Stack Progression" src="https://github.com/user-attachments/assets/5873c832-5e94-40e5-87cd-e4ff0143d905" />
-
-
 
 ---
 ## Strategic Coursework And Technical Foundations
@@ -70,7 +67,7 @@ Obtain an educational FPGA board such as the Terasic FPGA Development Board. Nav
 
 ---
 ## Professional Engagement and Industry Trends
-Inaddition to building your core technical proficiencies, a successful graduate transitioning to industry will need to understand market demands as well as engage with the broader engineering community. 
+In addition to building your core technical proficiencies, a successful graduate transitioning to industry will need to understand market demands as well as engage with the broader engineering community. 
 
 ### Industry Literacy
 #### Subscribe to Club Newsletters
