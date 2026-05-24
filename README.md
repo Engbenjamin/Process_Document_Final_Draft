@@ -28,7 +28,7 @@ If you are interested in becoming an Electronics Engineer, you may have question
 
 ---
 ## Strategic Coursework And Technical Foundations
-A successful graduate will need strong technical proficiency in the industry tools used by Electronics Engineers [^1] [^2]. These strategic combination of elective coursework, applied software mastery, and targeted technical practice are essential in developing your competitive technological foundation.
+A successful graduate will need strong technical proficiency in the industry tools used by Electronics Engineers [^1] [^2]. These strategic combination of elective coursework, applied software mastery, and targeted technical practice are essential in developing your technological foundation.
 
 ### Choosing Relevant Classes
 
@@ -89,7 +89,7 @@ Introduce yourself to students and professors in your classes, connect with them
 ### Conduct Informational Interviews
 Beyond providing insider industry knowledge of the roles and responsibilities of being an Electronics Engineer, informational interviewees may become a future point of contact at a company.
 
-Conduct informational interviews with Electronics Engineers to network with industry insiders. Go to the UWB LinkedIn page and search Alumni by major, e.g. ‘Electrical Engineering’.
+Conduct informational interviews with Electronics Engineers to network with industry insiders. Go to the UWB LinkedIn page and search Alumni by major under ‘Electrical Engineering’.
 
 ---
 ## References
