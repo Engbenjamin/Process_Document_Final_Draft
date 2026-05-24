@@ -7,7 +7,7 @@ By Benjamin Eng
     - [Choosing Relevant Classes](#Choosing-Relevant-Classes)
       - [Embedded Systems Classes](#Embedded-Systems)
       - [Electrical Sensors Classes](#Electrical-Sensors)
-      - [C++](#C++)
+      - [C++ Coding Classes](#C++)
     - [Core Software Tools in Electronics Engineering](#Core-Software-Tools)
     - [FPGA Design Experience](#FPGA-Digital-Design)
   - [Professional Engagement and Industry Literacy](#Professional-Engagement-and-Industry-Literacy)
@@ -21,16 +21,16 @@ By Benjamin Eng
 ---
 
 ## Purpose
-If you are interested in becoming an Electronics Engineer, you may have questions about building your career readiness skill stack necessary to land your first role after graduation. This process document guides you through building each layer of your skillset and includes core topics such as choosing the right elective classes tailored to Electronics Engineering, building technicial proficiency in professional tools, keeping up with industry trends, and constructing professional connections through networking.
+If you are interested in becoming an Electronics Engineer, you may have questions about building your career readiness skill stack necessary to land your first role after graduation. This process document guides you through building each layer of your stack and includes core topics such as choosing the right elective classes tailored to Electronics Engineering, building technicial proficiency in professional tools, keeping up with industry trends, and constructing your professional network.
 
 ### Figure 1: The Electronics Engineering Career Readiness Skill Stack Pyramid
 <img width="402" height="813" alt="Progressive_Skill_Stack_Pyramid" src="https://github.com/user-attachments/assets/041cef3a-8d53-42ee-8de5-2b81cc1b218a" />
 
 ---
 ## Strategic Coursework & Technical Foundations
-A successful graduate will need strong technical proficiency in the industry-standard tools commonly used by Electronics Engineers. [^1] These strategic combination of elective coursework, applied software mastery, and target practical skillsets are essential in developing that competitive technical foundation.
+A successful graduate will need strong technical proficiency in the industry tools used by Electronics Engineers. [^1] These strategic combination of elective coursework, applied software mastery, and targeted practical skillsets are essential in developing your competitive technical foundation.
 
-### Choose Relevant Classes
+### Choosing Relevant Classes
 
 #### Embedded Systems
 Embedded systems are ubiquitous with various domains from home electronics, aerospace, medical equipment and more. These courses will prepare you with the knowledge of software, firmware, and hardware elements and how these work together within the larger electrical system. 
@@ -40,9 +40,9 @@ Take EE elective courses in embedded systems such as EE 333 Analog Embedded Syst
 #### Electrical Sensors
 A core part of any electronic system are the inputs. Courses covering electrical sensors will prepare students for implementing these in electronic devices. 
 
-Take the EE elective course BEE 484 Sensors and Sensor Systems
+Take the EE elective course BEE 484 Sensors and Sensor Systems.
 
-#### C++ 
+#### C++ Coding
 This is a critical part of embedded electronics and are used in almost all microcontrollers. It is the industry standard for electronics firmware across industries.
 
 Take the CSS 142/143 C++ track of classes instead of the CSS 132/133 course track when fulfilling your degree's programming requirements. 
@@ -89,7 +89,7 @@ Introduce yourself to students and professors in your classes, connect with them
 ### Conduct Informational Interviews
 Beyond providing insider industry knowledge of the roles and responsibilities of being an Electronics Engineer, informational interviews may become a future point of contact at a company. Currently, around 80% of jobs are filled through referrals [^2].
 
-Conduct informational interviews with Electronics Engineers to network with industry insiders. Go to the University of Washington-Bothell LinkedIn page and click on the ‘Alumni’ tab then search by major, e.g. ‘Electrical Engineering’. Browse profiles that interest you and hit ‘connect’. Pair connection requests with a note on why you want to connect to increase the likelihood it is accepted.
+Conduct informational interviews with Electronics Engineers to network with industry insiders. Go to the University of Washington-Bothell LinkedIn page and click on the ‘Alumni’ tab then search by major, e.g. ‘Electrical Engineering’. Browse profiles that interest you and take them out to coffee.
 
 ---
 ## References
