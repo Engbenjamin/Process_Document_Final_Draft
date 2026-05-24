@@ -81,12 +81,12 @@ Job boards are a invaluable look at the current market for Electronics Engineers
 Subscribe to job sites like Indeed or ZipRecruiter. Set up automatic emails for roles under 'Electronics Engineer' or 'Electrical Engineer' or 'Hardware Engineer'.
 
 ### Building Your Professional Network
-### Connect With Classmates and Professors Online
+#### Connect With Classmates and Professors Online
 Connecting with classmates and professors networks you with like-minded individuals in your field. These connections could become crucial contacts for your first role after graduation [^5].
 
 Introduce yourself to students and professors in your classes, connect with them on LinkedIn and Handshake.
 
-### Conduct Informational Interviews
+#### Conduct Informational Interviews
 Beyond providing insider industry knowledge of the roles and responsibilities of being an Electronics Engineer, informational interviewees may become a future point of contact at a company.
 
 Conduct informational interviews with Electronics Engineers to network with industry insiders. Go to the UWB LinkedIn page and search Alumni by major under ‘Electrical Engineering’.
