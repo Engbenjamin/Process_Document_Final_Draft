@@ -11,7 +11,7 @@ By Benjamin Eng
     - [Core Software Tools in Electronics Engineering](#Core-Software-Tools)
     - [FPGA Design Experience](#FPGA-Digital-Design)
   - [Professional Engagement and Industry Trends](#Professional-Engagement-and-Industry-Trends)
-    - [Industry Literacy](#Industy-Literacy)
+    - [Industry Literacy](#Industry-Literacy)
       - [Subscribe to Club Newsletters](#Subscribe-to-Club-Newsletters)
       - [Search Job Boards for Electronics Engineering Roles](#Search-Job-Boards-for-Electronics-Engineering-Roles)
     - [Building Your Professional Network](#Building-Your-Professional-Network)
@@ -66,7 +66,7 @@ Practicing on FPGA platforms is essential for students pursuing digital design. 
 Obtain an educational FPGA board such as a Terasic FPGA Development Board or a Digilent Arty A7 FPGA Development Board. Navigate to FPGA4student.com to access comprehensive introductory hardware guides and structured baseline projects.
 
 ---
-## Professional Engagement and Industry Literacy
+## Professional Engagement and Industry Trends
 Navigating the transition from graduation to industry relies heavily on mapping current commercial market demands and engaging with the regional engineering community. Tracking active hiring trends and technological shifts across local aerospace or electronics firms provides the targeted insights needed to drive productive networking conversations and secure informational interviews with industry insiders.
 
 ### Industry Literacy
