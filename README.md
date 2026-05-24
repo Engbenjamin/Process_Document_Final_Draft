@@ -7,11 +7,11 @@ By Benjamin Eng
     - [Choosing Relevant Classes](#Choosing-Relevant-Classes)
       - [Embedded Systems Classes](#Embedded-Systems)
       - [Electrical Sensors Classes](#Electrical-Sensors)
-      - [C++ Coding Classes](#C++-Coding)
+      - [C++ Coding](#C++-Coding)
     - [Core Software Tools in Electronics Engineering](#Core-Software-Tools)
     - [FPGA Design Experience](#FPGA-Digital-Design)
-  - [Professional Engagement and Industry Literacy](#Professional-Engagement-and-Industry-Literacy)
-    - [Industry Trends](#Industy-Trends)
+  - [Professional Engagement and Industry Trends](#Professional-Engagement-and-Industry-Trends)
+    - [Industry Literacy](#Industy-Literacy)
       - [Subscribe to Club Newsletters](#Subscribe-to-Club-Newsletters)
       - [Search Job Boards for Electronics Engineering Roles](#Search-Job-Boards-for-Electronics-Engineering-Roles)
     - [Building Your Professional Network](#Building-Your-Professional-Network)
@@ -69,7 +69,7 @@ Obtain an educational FPGA board such as a Terasic FPGA Development Board or a D
 ## Professional Engagement and Industry Literacy
 Navigating the transition from graduation to industry relies heavily on mapping current commercial market demands and engaging with the regional engineering community. Tracking active hiring trends and technological shifts across local aerospace or electronics firms provides the targeted insights needed to drive productive networking conversations and secure informational interviews with industry insiders.
 
-### Industry Trends
+### Industry Literacy
 #### Subscribe to Club Newsletters
 Clubs like the IEEE have online newsletters that cover topics such as the latest university research, product spotlights, jobs, and the engineering workplace. 
 
