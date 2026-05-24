@@ -72,7 +72,7 @@ Inaddition to building your core technical proficiencies, a successful graduate 
 
 ### Industry Literacy
 #### Subscribe to Club Newsletters
-Clubs like the IEEE have online newsletters that cover topics such as the latest university research, product spotlights, jobs, and the engineering workplace [^6]. 
+Clubs like the IEEE have online newsletters that cover topics such as the latest university research, product spotlights, jobs, and the engineering workplace. 
 
 Subscribe to the IEEE newsletter at Spectrum.ieee.org/Newsletters and have them delivered to your email.
 
@@ -100,4 +100,3 @@ advice/finding-a-job/what-is-electronics-engineering. [Accessed 20 May 2026].
 [^3]: Michael, "Automating Test-Equipment with Python," Core Electronics, 24 September 2021. [Online]. Available: https://core-electronics.com.au/guides/automating-test-equipment-with-python/. [Accessed 19 May 2026].
 [^4]: "Matlab and Simulink for Electronics Systems," Matlab, [Online]. Available: https://www.mathworks.com/solutions/electronics.html. [Accessed 19 May 2026].
 [^5]: Lampano, Bryant. Personal interview. 26 April 2026
-[^6]: "IEEE Spectrum Newsletter," IEEE, [Online]. Available: Spectrum.ieee.org/Newsletters. [Accessed 17 May 2026].
